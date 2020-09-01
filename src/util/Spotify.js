@@ -1,5 +1,5 @@
 const clientId = process.env.REACT_APP_SPOTIFY_KEY // Insert client ID here.
-const redirectUri = 'http://nine-society.surge.sh'; // Have to add this to your accepted Spotify redirect URIs on the Spotify API.
+const redirectUri = process.env.REACT_APP_URI; // Have to add this to your accepted Spotify redirect URIs on the Spotify API.
 let accessToken;
 
 const Spotify = {
