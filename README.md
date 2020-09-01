@@ -15,11 +15,11 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### Deploy with Surge
-Install `npm install --global surge` if you don't have it already
+Install `npm install --global surge` if you don't have it already <br />
 
-`cd build` directory
-Run command `surge`
-Follow the steps on the screen. Change the domain value to your new URI.
+`cd build` directory <br />
+Run command `surge` <br />
+Follow the steps on the screen. Change the domain value to your new URI.<br />
 
 https://nine-society.surge.sh/ 
  
