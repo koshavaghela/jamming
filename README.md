@@ -1,3 +1,6 @@
+## Jamming
+Jamming is a website that allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account. <br />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
